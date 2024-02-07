@@ -1,5 +1,6 @@
 # Phase-One-Project-Final
 By: Raquel Palumbo
+
 Date: February 7th, 2024
 
 ## Project Overview
@@ -46,17 +47,19 @@ The data analyzed here only included data on aircraft that have had accidents. S
 Further analysis is needed to see how these reccomendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
 
 
-## More Information:
+# More Information:
 
-# Jupyter Notebook
+## Jupyter Notebook
 [click here](https://github.com/raquel-palumbo/Phase-One-Project-Final/blob/619fa83d51dfb9520a7164e985b5047bb8a2de2c/Phase%201%20Project.ipynb)
 
-# Presentation
+## Presentation
 [click here](https://docs.google.com/presentation/d/1HObMrkz63a6p24k-UW73UkCvQpxHkwVqG5ddOz7XyKI/edit#slide=id.g2b611f3bd05_0_126)
 
 
-# Contact
+## Contact
 [LinkedIn](http://linkedin.com/in/raquel-palumbo-156027168)
+
+# Repository Structure
 
 ```
 ├── Images
