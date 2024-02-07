@@ -48,8 +48,13 @@ Further analysis is needed to see how these reccomendations fit into other consi
 
 
 ##More Information:
+
+#Jupyter Notebook
+See [Jupyter Notebook](https://github.com/raquel-palumbo/Phase-One-Project-Final/blob/619fa83d51dfb9520a7164e985b5047bb8a2de2c/Phase%201%20Project.ipynb)
+
 #Presentation
-https://github.com/raquel-palumbo/Phase-One-Project-Final/blob/619fa83d51dfb9520a7164e985b5047bb8a2de2c/Phase%201%20Project.ipynb
+See [Presentation](https://docs.google.com/presentation/d/1HObMrkz63a6p24k-UW73UkCvQpxHkwVqG5ddOz7XyKI/edit#slide=id.g2b611f3bd05_0_126)
+
 
 #Contact
 http://linkedin.com/in/raquel-palumbo-156027168 
