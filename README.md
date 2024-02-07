@@ -68,8 +68,7 @@ Further analysis is needed to see how these reccomendations fit into other consi
 ├── git.ignore
 ├── Interactive Dashboard
 ├── License.md
-├── Phase One Project Presentation
 ├── Phase 1 Project.ipynb
-├── README.md
-└── 
+├── Phase One Project Presentation
+└──  README.md
 ```
