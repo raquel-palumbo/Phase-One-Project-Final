@@ -26,8 +26,7 @@ This analysis leaves us with three reccommendations for moving into airplane pur
 ![Passenger Outcomes (%) vs Airplane Makes](https://github.com/raquel-palumbo/Phase-One-Project-Final/assets/153582741/d0a5a69c-ef95-4a1c-b01b-6b231807c75c)
 
 
-![Passenger Outcomes v Airplane Models]([https://github.com/raquel-palumbo/Phase-One-Project-Final/assets/153582741/8ab26b29-6ee9-45f6-96d5-05da71b16480](https://github.com/raquel-palumbo/Phase-One-Project-Final/blob/6ed98302e4f53e549ddeabe27a3dfb8c715da6fc/Images/Passenger%20Outcomes%20(%25)%20v%20Airplane%20Models.png))
-
+![PassengerOutcomes(%)vAirplaneModels](https://github.com/raquel-palumbo/Phase-One-Project-Final/assets/153582741/a9fae80e-18f1-4356-a579-5ad68180aacf)
 
 
 2. ***Operate in the Northeast.*** The Midwest and Southeast are the next best options, all having a percentage of uninjured passengers above 85%.
