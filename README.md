@@ -44,7 +44,7 @@ This analysis leaves us with three reccommendations for moving into airplane pur
 ## Next Steps
 The data analyzed here only included data on aircraft that have had accidents. Similiar analysis on data that includes aircraft with no accident history may be of value.
 
-Further analysis is needed to see how these reccomendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
+Further analysis is needed to see how these reccommendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
 
 Technology changes fast, so doinga a similiar analysis focused on more recent years could help us to understand if these reccommendations are current.
 
