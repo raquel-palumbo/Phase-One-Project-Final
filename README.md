@@ -2,7 +2,7 @@
 By: Raquel Palumbo
 Date: February 7th, 2024
 
-### Project Overview
+## Project Overview
 <ins>Purpose</ins>
 
 This project aims to make three business reccomendations for a company looking to expand into the aviation idustry. This company is looking to acquire airplanes for both commerical and private usage. This analysis aims to help the company decide on:
@@ -17,5 +17,18 @@ The dataset used came from the National Transportation Safety Board. It cotains 
 The dataset initally contained 88,889 aviation accidents.
 
 
+## Conclusions
+This analysis leaves us with three reccommendations for moving into airplane purchasing and operation:
+
+1. ***Purchase/operate Boeing 777s.*** Boeing 767 and 737s, as well as Airbus A320 are also good model options, with over 90% of passengers uninjured. 
+
+2. ***Operate in the Northeast*** The Midwest and Southeast are the next best options, all having a percentage of uninjured passengers above 85%.
+
+3. ***Mainly operate flights for Executive/Corporate Purposes*** Public Use - Federal and PUBS had the highest percentage of uninjured passengers, but due to barriers to entry, most likely impractical. Executive/corporate flights had the next highest percentage of uninjured passengers at 73% and seems more practical for a comapany to enter into.
+
+## Next Steps
+The data analyzed here only included data on aircraft that have had accidents. Similiar analysis on data that includes aircraft with no accident history may be of value.
+
+Further analysis is needed to see how these reccomendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
 
 
