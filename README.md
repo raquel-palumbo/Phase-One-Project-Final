@@ -22,7 +22,9 @@ This analysis leaves us with three reccommendations for moving into airplane pur
 
 1. ***Purchase/operate Boeing 777s.*** Boeing 767 and 737s, as well as Airbus A320 are also good model options, with over 90% of passengers uninjured.
 
-![Best Makes](Images/Passenger-Outcomes-(%)-vs-Airplane-Makes.png)
+![Passenger Outcomes (%) v Flight Purpose](https://github.com/raquel-palumbo/Phase-One-Project-Final/assets/153582741/f91f45e5-8f26-42c0-afde-7b9d83571b0d)
+
+
    
 ![Best Models](Images/Passenger-Outcomes-(%)-v-Airplane-Models.png)
 
