@@ -49,7 +49,7 @@ Further analysis is needed to see how these reccomendations fit into other consi
 
 ##More Information:
 #Presentation
-
+https://github.com/raquel-palumbo/Phase-One-Project-Final/blob/619fa83d51dfb9520a7164e985b5047bb8a2de2c/Phase%201%20Project.ipynb
 
 #Contact
 http://linkedin.com/in/raquel-palumbo-156027168 
