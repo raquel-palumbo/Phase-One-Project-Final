@@ -46,4 +46,5 @@ The data analyzed here only included data on aircraft that have had accidents. S
 
 Further analysis is needed to see how these reccomendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
 
+https://docs.google.com/presentation/d/1HObMrkz63a6p24k-UW73UkCvQpxHkwVqG5ddOz7XyKI/edit#slide=id.g2b611f3bd05_0_46
 
