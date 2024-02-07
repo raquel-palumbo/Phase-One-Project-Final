@@ -63,7 +63,9 @@ Further analysis is needed to see how these reccomendations fit into other consi
 ├── Phase-One-Project
 ├── data
 ├── git.ignore
+├── Interactive Dashboard
+├── License.md
+├── Phase 1 Project.ipynb
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+└── 
 ```
