@@ -46,6 +46,8 @@ The data analyzed here only included data on aircraft that have had accidents. S
 
 Further analysis is needed to see how these reccomendations fit into other considerations the company may want to look at such as cost, ability to operate, etc.
 
+Technology changes fast, so doinga a similiar analysis focused on more recent years could help us to understand if these reccommendations are current.
+
 
 # More Information:
 
